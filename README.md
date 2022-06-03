@@ -87,12 +87,12 @@
 
 ## Variables
 
-- `APP_ID`  =  Get this value from my.telegram.org
-- `API_HASH`  =  Get this value from my.telegram.org
-- `LEGEND_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
-- `LOGGER_ID`  =  Make A Channel And Get it's ID.
-- `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
-- `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
+- `APP_ID`  =  15792198
+- `API_HASH`  =  a44bc652e5389b0469099eace462cc47
+- `LEGEND_STRING`  =  1BVtsOJ4Bu4mCIjLfZJPK6bbH7DQHyOqll0p7w2bwHpb47ZQMcnmNN57kNIfr6npgCPcVxIT6TBCteXDjREWzXWLJo1rJltSGmnpmWICJmfJ1x8ouZpzjiGsDD1LXC6zSP4OwZXOHmiG6lpaDkMW9RyHP3P97cGJIxImEbxHjPKgAcpTzarkYrPYFIk1H1VkVe85sS8u5CITKXtFbXEmosUCYHmfxv7txYld7E3P1URFU3XMysVz-2Xj401QPihgl9kk-RAdv3-fw-H3IhRRgr1kOFp3gL5R10EppXv_CtKuhjX306CLIb8d278SboLJG7GuwAHMZD2aA1CFlDIu33MKcdmbS5xY=
+- `LOGGER_ID`  =  -532628863
+- `BOT_TOKEN`  =  5443489926:AAGrxJyN1RVxsqHeQiGU71q3zT7yKC79JdQ
+- `BOT_USERNAME`  =  LEGEND_X_SUPREMEBOT
 
 ------
 ### Repl
